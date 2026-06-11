@@ -22,8 +22,6 @@ Some of my repos are rough. Some are dead ends. Some are stepping stones. I keep
 | [`clanker`](https://github.com/deucebucket/clanker) | Older/larger experimental line around AI language, scoring, and structured signals. |
 | [`clanker-soul`](https://github.com/deucebucket/clanker-soul) | An experiment in persistent agent state: mood, memory pressure, feedback loops, and behavior triggers. |
 | [`cerebellum-brainloop`](https://github.com/deucebucket/cerebellum-brainloop) | Brainloop-style experiments around repeated reasoning, memory, tasks, and feedback cycles. |
-| [`scrithub`](https://github.com/deucebucket/scrithub) | A story/project workflow with AI assist, suggestions, review, and merge-style approval. |
-| [`skaldleita`](https://github.com/deucebucket/skaldleita) | Book metadata and narrator-identification infrastructure, with search, audio, watchdog, and ops docs. |
 | [`library-manager`](https://github.com/deucebucket/library-manager) | Library tooling and self-hosted AI planning, including local Ollama-style privacy ideas. |
 
 ## How I work
