@@ -1,4 +1,6 @@
-# Hey, I’m Deuce.
+# Hey, I’m Jerry.
+
+Online I usually build as **DeuceBucket**.
 
 I build weird little AI systems and learn in public.
 
